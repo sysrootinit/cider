@@ -136,7 +136,9 @@
         "language": "语言",
         "language-info": "刷新页面以完全应用新的语言。",
         "language-info-electron": "重启应用程序以完全应用新的语言。",
-        "dark-mode": "深色模式"
+        "dark-mode": "深色模式",
+        "auto-save": "自动储存",
+        "auto-save-info": "当编辑时自动储存卡片、模板和文件，并每 10 分钟储存完整专案。"
     },
         "simulator": {
         "draw-card": "抽卡",
